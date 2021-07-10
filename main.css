@@ -1,0 +1,14 @@
+.section-search input {
+  padding: 5px;
+  font-size: 50px;
+  width: 90%;
+  border: #f4f4f4 3px solid;
+}
+
+.fa-4x {
+  margin: 5px 10px;
+}
+
+.row img {
+  margin: 2px 2px 2px 2px;
+}
